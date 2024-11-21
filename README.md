@@ -10,7 +10,7 @@ Passionate about building robust and scalable applications with expertise in Jav
 - 👀 I’m interested in coding and software development.
 - 🌱 I’m currently learning Java and full stack web development.
 - 💞️ I’m looking to collaborate on Java Projects.
-- 📫 How to reach me https://github.com/yogeshsj
+- 📫 How to reach me https://github.com/yogeshjadhav01
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer!"🕵️‍♂️
 
 ## Stack I work with
@@ -46,16 +46,16 @@ Passionate about building robust and scalable applications with expertise in Jav
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
 
 ## Social Media Handles
-[![Github](https://img.shields.io/github/followers/yogeshsj?label=Follow&style=social)](https://github.com/yogeshsj)
+[![Github](https://img.shields.io/github/followers/yogeshjadhav01?label=Follow&style=social)](https://github.com/yogeshjadhav01)
 [![Mail](https://img.shields.io/badge/yogeshjadhav6005@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:yogeshjadahv6005@gmail.com)
 
 ## Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{yogeshsj}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{yogeshjadhav01}/count.svg)
 
 ### Badges
-| <a href="https://github.com/yogeshsj/yogeshsj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshsj&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Yogesh's github stats" /></a> | <a href="https://github.com/yogeshsj/yogeshsj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsj&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/yogeshjadhav01/yogeshjadhav01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshjadhav01&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Yogesh's github stats" /></a> | <a href="https://github.com/yogeshjadhav01/yogeshjadhav01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshjadhav01&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yogeshsj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/yogeshjadhav01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
