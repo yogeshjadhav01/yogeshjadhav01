@@ -56,6 +56,6 @@ Passionate about building robust and scalable applications with expertise in Jav
 | <a href="https://github.com/yogeshjadhav01/yogeshjadhav01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshjadhav01&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Yogesh's github stats" /></a> | <a href="https://github.com/yogeshjadhav01/yogeshjadhav01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshjadhav01&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
-<b>My GitHub Stats</b>
+## My GitHub Stats 📊 
 
-<a href="http://www.github.com/yogeshjadhav01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/yogeshjadhav01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshjadhav01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
