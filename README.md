@@ -1,17 +1,14 @@
 # 👋 Hi, I’m @YogeshJadhav
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
-Passionate about building robust and scalable applications with expertise in Java and J2EE technologies. Skilled in Core Java, Spring Core, Spring Boot, Spring Data JPA, and Spring Security, along with designing and developing RESTful Web Services.
-🔧 Proficient in MySQL and source code management using Git/GitHub. Experienced in applying data structures in Java to optimize performance.
-📈 Adept at Agile development processes and leveraging tools like JIRA for project management. Familiar with DBMS, microservices architecture, and exploring the applications of artificial intelligence in large language models.
-🚀 Continuously learning and sharing innovative solutions. Check out my repositories to see my work in action!
+I am passionate about designing and developing scalable, high-performance applications, specializing in Java and J2EE technologies. My expertise includes Core Java, Spring Framework (Core, Boot, Data JPA, Security), and creating RESTful APIs. I'm skilled in working with MySQL databases and managing code with Git/GitHub. With a strong focus on optimizing performance using data structures in Java, I thrive in Agile environments and make use of tools like JIRA for project management. I am also exploring the intersection of artificial intelligence and large language models. 🚀
 
 ## About Me 👋
-- 🌍 I'm based in Pune, India
-- 👀 I’m interested in coding and software development.
-- 🌱 I’m currently learning Java and full stack web development.
-- 💞️ I’m looking to collaborate on Java Projects.
-- 📫 How to reach me https://github.com/yogeshjadhav01
-- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer!"🕵️‍♂️
+- 🌍 I currently reside in Pune, India
+- 👀 I have a deep interest in coding and software development
+- 🌱 I'm expanding my skills in Java and full-stack web development
+- 💞️ I am open to collaborating on Java-based projects
+- 📫 Feel free to reach out via my GitHub: yogeshjadhav01
+- ⚡ Fun fact: Debugging feels like being the detective in a crime story where you’re also the culprit! 🕵️‍♂️
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
