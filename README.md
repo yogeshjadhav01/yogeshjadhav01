@@ -57,3 +57,7 @@ I thrive in Agile environments 🔄 and actively use tools like JIRA 🛠️ for
 ## My GitHub Stats 📊 
 
 <a href="http://www.github.com/yogeshjadhav01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshjadhav01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+[![Yogesh's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshjadhav01&custom_title=yogeshjadhav01%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/SarthakNimse)
