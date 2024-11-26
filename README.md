@@ -1,13 +1,14 @@
 # 👋 Hi, I’m @YogeshJadhav
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
-I am passionate about designing and developing scalable, high-performance applications, specializing in Java and J2EE technologies. My expertise includes Core Java, Spring Framework (Core, Boot, Data JPA, Security), and creating RESTful APIs. I'm skilled in working with MySQL databases and managing code with Git/GitHub. With a strong focus on optimizing performance using data structures in Java, I thrive in Agile environments and make use of tools like JIRA for project management. I am also exploring the intersection of artificial intelligence and large language models. 🚀
+I am passionate about designing and developing scalable, high-performance applications 💻, with a strong focus on Java ☕ and J2EE technologies. My expertise spans across Core Java 🔧, Spring Framework (Core, Boot, Data JPA, Security) 🌱, and building RESTful APIs 🌐. I have extensive experience working with MySQL databases 🗄️ and managing source code with Git/GitHub 🔄. I am also proficient in optimizing performance through the use of data structures 📊 in Java.
+I thrive in Agile environments 🔄 and actively use tools like JIRA 🛠️ for project management and collaboration. Additionally, I am exploring the exciting intersection of artificial intelligence 🤖 and large language models 🧠 to stay at the forefront of technological advancements. 🚀
 
 ## About Me 👋
 - 🌍 I currently reside in Pune, India
 - 👀 I have a deep interest in coding and software development
-- 🌱 I'm expanding my skills in Java and full-stack web development
+- 🌱 I'm expanding my skills in Java and Back-end web development
 - 💞️ I am open to collaborating on Java-based projects
-- 📫 Feel free to reach out via my GitHub: yogeshjadhav01
+- 📫 Feel free to reach out via my GitHub: https://github.com/yogeshjadhav01
 - ⚡ Fun fact: Debugging feels like being the detective in a crime story where you’re also the culprit! 🕵️‍♂️
 
 ## Stack I work with
